@@ -1,10 +1,6 @@
 <h1 align="center">
-  <img alt="Casa Criativa" src="public/CasaCriativalogo.png" width="400px" />
+  <img alt="Casa Criativa" src="public/CasaCriativalogo.png"/>
     <br>
-</h1>
-
-<h1 align="center">
-   Casa Criativa  
 </h1>
 
 <h4 align="center">
