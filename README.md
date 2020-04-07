@@ -52,11 +52,13 @@ npm install
 
 ```
 
-
 # run application
 ```bash
 npm run dev
 ```
+<img src="public/Print_1.png"/>
+<img src="public/Print_2.png"/>
+<img src="public/Print_3.png"/>
 
 ## :page_facing_up: License
 
