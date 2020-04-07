@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Casa Criativa" src="pubkic/CasaCriativalogo.png" width="400px" />
+  <img alt="Casa Criativa" src="public/CasaCriativalogo.png" width="400px" />
     <br>
 </h1>
 
@@ -37,6 +37,7 @@ This project was developed with the following technologies:
 -  [VS Code](https://code.visualstudio.com/)
 
 ## :information_source: How to run
+
 ### Requirements
 To run the app, you will need [Git](https://git-scm.com), [Node.js](https://nodejs.org/) v12.13.1 or higher, [Npm](https://www.npmjs.com/), [SQLite3](https://sqlitebrowser.org/).
 <br>
@@ -54,7 +55,10 @@ cd CasaCriativa/
 npm install
 
 ```
+
+
 # run application
+```bash
 npm run dev
 ```
 
