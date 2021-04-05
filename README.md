@@ -66,8 +66,9 @@ This project is under the MIT license.
 
 ## :mailbox_with_mail: Get in touch!
 
-[ LinkedIn ](https://www.linkedin.com/in/evoney-mendonça/)
-[ Site ](https://evoney.github.io/)
+- [ LinkedIn ](https://www.linkedin.com/in/evoney-mendonça/)
+
+- [ Site ](https://evoney.github.io/)
 
 ---
 
